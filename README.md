@@ -37,7 +37,7 @@ This project is a **Team Schedule Management UI** built using **Next.js**, **Typ
    ```
 2. Navigate to the project directory:
    ```sh
-   cd team-schedule-ui
+   cd team-schedule
    ```
 3. Install dependencies:
    ```sh
@@ -48,13 +48,7 @@ This project is a **Team Schedule Management UI** built using **Next.js**, **Typ
    npm run dev  # or yarn dev
    ```
 
-## 📸 Screenshots
-
-_Add screenshots/gifs of the UI to showcase functionality._
-
 ## 🎨 UI Improvements
-
-- Smooth animations added for better UX.
 - Hover effects on buttons.
 - Smooth entry effects for assigned slots.
 
