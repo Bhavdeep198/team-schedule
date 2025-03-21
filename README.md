@@ -4,12 +4,12 @@ This project is a **Team Schedule Management UI** built using **Next.js**, **Typ
 
 ### 🖥️ Laptop View
 
-![Laptop View](public/screenshots/Leptop-view.png)
+![Laptop View](public/screenshot/Leptop-view.png)
 
 ### 📱 Mobile View
 
-![Mobile View 1](public/screenshots/mobile-view-1.png)
-![Mobile View 2](public/screenshots/mobile-view-2.png)
+![Mobile View 1](public/screenshot/mobile-view-1.png)
+![Mobile View 2](public/screenshot/mobile-view-2.png)
 
 ## 🚀 Features
 
