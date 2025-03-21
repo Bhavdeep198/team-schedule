@@ -2,11 +2,18 @@
 
 This project is a **Team Schedule Management UI** built using **Next.js**, **TypeScript**, and **Tailwind CSS**. It features a dynamic team scheduling system with animations and a sidebar for assigned/unassigned members.
 
+### 🖥️ Laptop View
+
+![Laptop View](public/screenshots/Leptop-view.png)
+
+### 📱 Mobile View
+
+![Mobile View 1](public/screenshots/mobile-view-1.png)
+![Mobile View 2](public/screenshots/mobile-view-2.png)
+
 ## 🚀 Features
 
 - **Team-wise Scheduling** with time slots.
-- **Drag-and-Drop Assignments** (if needed in future iterations).
-- **Animated UI** using Framer Motion.
 - **Responsive Design** for all screen sizes.
 - **Filter & Navigation Controls** (Status, Team, Time View).
 - **Assigned & Unassigned Member Sidebar**.
@@ -23,7 +30,7 @@ This project is a **Team Schedule Management UI** built using **Next.js**, **Typ
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/team-schedule-ui.git
+   git clone https://github.com/Bhavdeep198/team-schedule.git
    ```
 2. Navigate to the project directory:
    ```sh
